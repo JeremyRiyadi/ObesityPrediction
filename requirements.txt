@@ -1,0 +1,6 @@
+pandas==2.3.0
+matplotlib==3.10.3
+seaborn==0.13.2
+fastapi==0.115.13
+joblib==1.5.1
+requests==2.32.4

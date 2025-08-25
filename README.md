@@ -14,7 +14,7 @@ This project focuses on predicting an individual's obesity level based on variou
      * **Random Forest Classifier**
      * **AdaBoost Classifier**
    * Evaluated both models and selected the one with the best performance.
-   * Saved the best-performing model into a `.pkl` file using Joblib.
+   * Saved the best-performing model into a `.pkl` file.
 
 2. **API Deployment**
 

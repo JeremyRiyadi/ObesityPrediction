@@ -1,7 +1,3 @@
-Here’s a clear and professional README draft for your project:
-
----
-
 # Obesity Level Classification Project
 
 ## Overview

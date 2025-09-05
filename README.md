@@ -58,14 +58,14 @@ This project focuses on predicting an individual's obesity level based on variou
 4. **Run FastAPI server**:
 
    ```bash
-   uvicorn main:app --reload
+   uvicorn main:fastapii --reload
    ```
 
    The API will be available at `http://127.0.0.1:8000`.
 5. **Run Streamlit app**:
 
    ```bash
-   streamlit run app.py
+   streamlit run streamlit.py
    ```
 
    Open the provided URL in your browser to use the application.
